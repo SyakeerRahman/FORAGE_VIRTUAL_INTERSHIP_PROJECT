@@ -5,3 +5,4 @@ Virtual work experience programs replicate work at top companies, and connect st
 Virtual work experience programs contain real industry tasks, to develop transferable skills for workplace readiness. You don’t just learn new skills, you’re able to showcase your knowledge & get noticed by recruiters from top companies.
 
 1. Accenture Data Analytics and Visualizations 
+2. PWC Power BI Virtual Internship
